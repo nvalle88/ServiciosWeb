@@ -5,3 +5,5 @@ Esta es una solucion con la estructura para la creacion de servicios web en Digi
 
 Esta solucion consta de tres proyectos el de DATOS, ENTIDADES Y WEB, dentro de cada proyecto se encuentran las carpetas con algunas clases ejemplos para facilitar la creacion de nuevos proyectos, 
 para usar el proyecto debe ser descargado desde el repositorio puede aplicarse los cambios necesarios para el desarrollo de la solución o puede trabajar directamente en la solucion si no es necesario realizar cambios.
+
+![alt tag](https://github.com/nvalle88/ServiciosWeb/blob/master/DS.png)
