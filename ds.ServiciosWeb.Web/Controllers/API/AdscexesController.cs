@@ -9,8 +9,13 @@ using bd.log.guardar.ObjectTranfer;
 using bd.log.guardar.Enumeradores;
 using ds.ServiciosWeb.datos;
 
+/*
+ Creado por DigitalStrategy
+  Las clases dentro de los Controllers/API son las encargadas de insertar, eliminar, editar y leer los datos de la base de datos
+ */
 namespace ds.ServiciosWeb.web.Controllers.API
 {
+    
     [Produces("application/json")]
     [Route("api/Adscexes")]
     public class AdscexesController : Controller
