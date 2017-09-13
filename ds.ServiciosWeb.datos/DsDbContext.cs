@@ -5,14 +5,15 @@ namespace ds.ServiciosWeb.datos
 {
     public class DsDbContext: DbContext
     {
-
+        /*
+         * Creado por DigitalStrategy
+           Una instancia de DbContext representa una combinación de los modelos de unidad de trabajo y repositorio, 
+           de modo que pueda emplearse para consultar una base de datos y agrupar los cambios que, seguidamente, 
+           se volverán a escribir en el almacenamiento como una unidad. DbContext es conceptualmente similar a ObjectContext. 
+             */
         public DsDbContext(DbContextOptions<DsDbContext> options)
             : base(options) { }
-
-
-
         //Ejemplo de la creación de los DbSet;
-
         //public virtual DbSet<ds.ServiciosWeb.entidades.Negocio.EntidadEjeplo> Ejemplo { get; set; }
 
 
