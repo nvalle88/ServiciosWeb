@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace ds.ServiciosWeb.datos
+namespace ds.WebServices.data
 {
     public class DsDbContext: DbContext
     {
@@ -11,10 +11,11 @@ namespace ds.ServiciosWeb.datos
            de modo que pueda emplearse para consultar una base de datos y agrupar los cambios que, seguidamente, 
            se volverán a escribir en el almacenamiento como una unidad. DbContext es conceptualmente similar a ObjectContext. 
              */
+
         public DsDbContext(DbContextOptions<DsDbContext> options)
             : base(options) { }
         //Ejemplo de la creación de los DbSet;
-        //public virtual DbSet<ds.ServiciosWeb.entidades.Negocio.EntidadEjeplo> Ejemplo { get; set; }
+        //public virtual DbSet<ds.WebServices.entities.Negocio.EntidadEjeplo> Ejemplo { get; set; }
 
 
         //Propiedades de navegación 

@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace ds.ServiciosWeb.web
+namespace ds.WebServices.web
 {
     public class Program
     {

@@ -6,9 +6,9 @@ using System.Text;
  La clase constante, es una clase en la cual se deben agregar todas la informacion que sera constante para el proyecto
  */
 
-namespace ds.ServiciosWeb.entidades.Constantes
+namespace ds.WebServices.entities.Constants
 {
-   public class Constantes
+   public class constants
     {
         const string Url = "DigitalStrategy.com.ec";
     }

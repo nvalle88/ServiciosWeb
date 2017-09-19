@@ -41,8 +41,8 @@
     <Folder Include="Properties\PublishProfiles\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ds.ServiciosWeb.datos\ds.ServiciosWeb.datos.csproj" />
-    <ProjectReference Include="..\ds.ServiciosWeb.entidades\ds.ServiciosWeb.entidades.csproj" />
+    <ProjectReference Include="..\ds.ServiciosWeb.datos\ds.WebServices.data.csproj" />
+    <ProjectReference Include="..\ds.ServiciosWeb.entidades\ds.WebServices.entities.csproj" />
   </ItemGroup>
 
 </Project>

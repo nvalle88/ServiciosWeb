@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ds.ServiciosWeb.entidades.Utils
+namespace ds.WebServices.entities.Utils
 {
     /*
     Creado por DigitalStrategy
     Las Clases Utils son clases con metodos para ser reutilizados como mensajes, Codificar, o response 
     según sean necesarias para el proyecto
     */
-    public class Codificar
+    public class Encode
     {
 
         public static string SHA512(string input)

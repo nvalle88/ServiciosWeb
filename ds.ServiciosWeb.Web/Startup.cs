@@ -4,9 +4,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
-using ds.ServiciosWeb.datos;
+using ds.WebServices.data;
 
-namespace ds.ServiciosWeb.web
+namespace ds.WebServices.web
 {
     public class Startup
     {

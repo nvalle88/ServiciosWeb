@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ds.ServiciosWeb.entidades.Enumeradores
+namespace ds.WebServices.entities.Enumerators
 {
  /*
      Creado por DigitalStrategy

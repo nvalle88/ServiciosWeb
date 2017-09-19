@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ds.ServiciosWeb.entidades.Helpers
+namespace ds.WebServices.entities.Helpers
 {
     /*
      Creado por DigitalStrategy

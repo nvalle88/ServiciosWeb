@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using bd.log.guardar.Servicios;
 using bd.log.guardar.ObjectTranfer;
 using bd.log.guardar.Enumeradores;
-using ds.ServiciosWeb.datos;
+using ds.WebServices.data;
 
 /*
  Creado por DigitalStrategy

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ds.ServiciosWeb.datos", "ds.ServiciosWeb.datos\ds.ServiciosWeb.datos.csproj", "{A604D292-4DA3-4ECD-9F6E-A11CAE56D438}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ds.WebServices.data", "ds.ServiciosWeb.datos\ds.WebServices.data.csproj", "{A604D292-4DA3-4ECD-9F6E-A11CAE56D438}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ds.ServiciosWeb.entidades", "ds.ServiciosWeb.entidades\ds.ServiciosWeb.entidades.csproj", "{0BBE3CDD-EDC2-4EBB-9F3E-B7B37AF6DAB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ds.WebServices.entities", "ds.ServiciosWeb.entidades\ds.WebServices.entities.csproj", "{0BBE3CDD-EDC2-4EBB-9F3E-B7B37AF6DAB7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ds.ServiciosWeb.web", "ds.ServiciosWeb.Web\ds.ServiciosWeb.web.csproj", "{F08426B1-BE2E-4528-88D6-6B152685575D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ds.WebServices.web", "ds.ServiciosWeb.Web\ds.WebServices.web.csproj", "{F08426B1-BE2E-4528-88D6-6B152685575D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

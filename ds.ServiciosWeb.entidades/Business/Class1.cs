@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ds.ServiciosWeb.entidades.Negocio
+namespace ds.WebServices.entities.Business
 {
     /*
           Creado por DigitalStrategy
